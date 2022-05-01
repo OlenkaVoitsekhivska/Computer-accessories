@@ -1,0 +1,25 @@
+
+.more, footer{
+    background-color: rgb(52, 58, 64);
+    color: white;
+}
+.connect{
+    color: rgb(108, 117, 125);
+}
+.products,.connect{
+    background-color: rgb(248, 249, 250);
+}
+.hero{
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../img/header-bg.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+}
+
+h1{
+    font-weight: 900 !important;
+}
+.logo{
+    color:red !important;
+}
